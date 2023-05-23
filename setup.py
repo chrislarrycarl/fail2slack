@@ -30,7 +30,7 @@ setup(
     ],
     install_requires=[
         'argparse==1.4.0',
-        'requests==2.27.1',
+        'requests==2.31.0',
         'validators==0.18.2',
     ],
 )
